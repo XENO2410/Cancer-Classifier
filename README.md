@@ -4,8 +4,6 @@
 In this project, we use Python libraries to create a K-Nearest Neighbor classifier that predicts whether a patient has breast cancer.
 
 ## Tasks
-18/18 complete
-Mark the tasks as complete by checking them off.
 
 ### Explore the Data
 1. Import the breast cancer data using `load_breast_cancer` from `sklearn.datasets`.
