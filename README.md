@@ -36,3 +36,5 @@ Mark the tasks as complete by checking them off.
 ## Further Exploration
 - Experiment with different `random_state` values to observe variance in the results.
 
+![image](https://github.com/XENO2410/Cancer-Classifier/assets/97669140/c7c0102b-e7bc-469b-acd7-5ce132f57fd4)
+
